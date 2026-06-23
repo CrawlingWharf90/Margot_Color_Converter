@@ -6,6 +6,7 @@ When injecting translucent inks (like Sublimation or standard DTG without a whit
 
 ## Setup
 
+Clone or Download the repo. <br>
 Open a terminal in 'Margot Color Converter' Folder and run the following command:
 
 ```bash
